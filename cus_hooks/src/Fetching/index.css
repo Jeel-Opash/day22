@@ -1,0 +1,18 @@
+.container{
+    background-color: rgb(174, 168, 168);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+li{
+    list-style-type: none;
+    background-color: black;
+    color: aliceblue;
+}
+.id{
+    border: solid black;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+}

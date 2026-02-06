@@ -1,0 +1,16 @@
+
+ul{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+li{
+    font-size: 30px;
+   border: solid beige;
+   list-style-type: none;
+   margin: 10px;
+   padding: 30px;
+   border-radius: 20px;
+   justify-content: center;
+   align-items: center;
+}
